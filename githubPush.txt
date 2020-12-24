@@ -2,3 +2,10 @@ ITSE-2192 Fundamental of web Design
 and Development
 Introduction to Git
 Lab Zero 
+
+for second commit
+
+ITSE-2192 Fundamental of web Design
+and Development
+Introduction to Git
+Lab Zero 
